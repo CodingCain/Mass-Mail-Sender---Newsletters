@@ -1,0 +1,4 @@
+# Add all who will receive the email here
+placeholder@mail.com
+placeholder2@mail.com
+etc.
